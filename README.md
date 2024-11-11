@@ -33,7 +33,7 @@
 - **Languages:** Python, SQL
 - **Database Management System:** MySQL
 - **Tools:** Git & GitHub, Excel
-- **IDE: PyCharm
+- **IDE:** PyCharm
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn & Scikit-Learn
 
 ### Projects
