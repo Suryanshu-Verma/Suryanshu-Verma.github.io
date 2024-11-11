@@ -26,7 +26,8 @@
   Created a music recommendation Model using Spotify API and Streamlit, improving user experience. Conducted feature extraction and built a user-friendly interface for similarity analysis  
   
 - **Data Science Intern, IBM**  Feb 2024 - Mar 2024
-  Built a house price estimator using ensemble methods, boosting model accuracy by 9%.  
+  Analyzes user engagement's impact on restaurant performance using the Yelp dataset, identifying key
+  correlations to guide businesses toward long-term growth 
   
 ### Technical Skills
 - **Languages:** Python, SQL
@@ -43,6 +44,9 @@
   Conducted feature extraction and developed a user-friendly interface for exploring music similarity.
 - **House Price Estimator Using Ensemble Technique Bagging, Random Forest Regression**  
   Utilized grid search cross-validation to optimize feature parameters for property price estimation, achieving a 9% accuracy enhancement. Employed Random Forest Regression for analysis and hyperparameter tuning.
+- **Restaurant Success Analysis Using MySQL, SQLAlchemy**
+- Analyzes user engagement's impact on restaurant performance using the Yelp dataset, identifying key
+  correlations to guide businesses toward long-term growth
 
 ### Contact Information
 - **Phone:** +91 9868808014
