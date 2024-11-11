@@ -1,9 +1,9 @@
-#Suryanshu Verma 
+# Suryanshu Verma 
 
 ---
 
 ### Summary
-**B.Tech in Electronics & Communication (ML & DA) with hands-on experience as a Data Analyst and Machine Learning Intern. Developed projects like a WhatsApp Chat Analyzer and Music Recommendation Model using Python, SQL, and Streamlit. Skilled in data analysis, visualization, and predictive modeling with tools like Pandas, NumPy, and Scikit-Learn. Passionate about transforming data into actionable insights.
+**B.Tech in Electronics & Communication (ML & DA) with hands-on experience as a Data Analyst and Machine Learning Intern. Developed projects like a WhatsApp Chat Analyzer and Music Recommendation Model using Python, SQL, and Streamlit. Skilled in data analysis, visualization, and predictive modeling with tools like Pandas, NumPy, and Scikit-Learn. Passionate about transforming data into actionable insights.**
 
 ### Education
 - **B.Tech, Electronics & Communication with ML & DA Specialization**  
