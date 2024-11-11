@@ -32,7 +32,8 @@
 ### Technical Skills
 - **Languages:** Python, SQL
 - **Database Management System:** MySQL
-- **Tools:** Git & GitHub, Excel, PyCharm
+- **Tools:** Git & GitHub, Excel
+- **IDE: PyCharm
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn & Scikit-Learn
 
 ### Projects
